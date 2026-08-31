@@ -4,7 +4,7 @@ Aplikasi web sederhana untuk klasifikasi gambar apel dan jeruk menggunakan deep 
 
 ## 🔗 Demo
 
-Coba langsung di: [appleorange-3t62pfpqm3ekhexhejpx6d.streamlit.app](https://appleorange-3t62pfpqm3ekhexhejpx6d.streamlit.app)
+Coba langsung di: appleorange-classifier.streamlit.app
 
 ## ✨ Fitur
 
