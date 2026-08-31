@@ -4,7 +4,8 @@ Aplikasi web sederhana untuk klasifikasi gambar apel dan jeruk menggunakan deep 
 
 ## 🔗 Demo
 
-Coba langsung di: [appleorange-3t62pfpqm3ekhexhejpx6d.streamlit.app](https://appleorange-3t62pfpqm3ekhexhejpx6d.streamlit.app)
+Coba langsung di: [appleorange-classifier
+.streamlit.app](https://appleorange-classifier.streamlit.app/)
 
 ## ✨ Fitur
 
@@ -62,24 +63,3 @@ Gambar yang diupload akan:
 4. Menghasilkan skor probabilitas untuk kelas Apple dan Orange
 
 Model menggunakan output biner (sigmoid), di mana skor mendekati 1 berarti Orange dan mendekati 0 berarti Apple.
-
-## ⚠️ Batasan
-
-Model ini hanya dilatih untuk mengenali **dua kelas**: apple dan orange. Gambar buah atau objek lain di luar kedua kelas ini akan tetap diklasifikasikan sebagai salah satu dari keduanya (dengan confidence yang biasanya rendah).
-
-## 📌 Embed ke Website Lain
-
-Aplikasi ini bisa disematkan ke halaman web lain menggunakan iframe:
-
-```html
-<iframe 
-  src="https://appleorange-3t62pfpqm3ekhexhejpx6d.streamlit.app/?embed=true" 
-  width="100%" 
-  height="800" 
-  style="border:none;">
-</iframe>
-```
-
-## 📄 Lisensi
-
-Bebas digunakan untuk keperluan pembelajaran.
